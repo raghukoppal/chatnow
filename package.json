@@ -1,7 +1,23 @@
 {
-  "name": "Chat now app",
+  "name": "chat-app",
   "version": "1.0.0",
-  "description": "Chat now app you can chat on any subject, latest news, and trends.",
+  "description": "chat on letest news, trend, film, tranding subjects etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghukoppal/chatnow.git"
+  },
+  "keywords": [
+    "chat",
+    "app"
+  ],
   "author": "",
-  "license": "MIT"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raghukoppal/chatnow/issues"
+  },
+  "homepage": "https://github.com/raghukoppal/chatnow#readme"
 }
