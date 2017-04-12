@@ -1,5 +1,5 @@
 {
-  dependencies: {
+  "dependencies": {
     "add": "add your dependencies packages here"
   }
 }
